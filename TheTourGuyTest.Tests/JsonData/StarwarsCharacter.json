@@ -1,0 +1,12 @@
+{
+    "starwars_character": {
+        "Person": "Ben Solo",
+        "Email": "bsolo@unicef.org",
+        "Role": "Sith",
+        "Team": "Jedi",
+        "Object": "Leia Organa",
+        "Relation": "ChildOf",
+        "Home": "Chandrila",
+        "Climate": "Temperate"
+    }
+}
